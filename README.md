@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @IvanLovt
+- 
 - 👀 I’m interested in creativ ideas
+- 
 - 🌱 I’m currently learning css js c# php
+- 
 - 💞️ I’m looking to collaborate on)))))
+- 
 - 📫 How to reach me my TGC t.me/studiolovt
 
 <!---
